@@ -2,6 +2,8 @@
 
 # Lista_de_atividades
 
+Página 26
+
 Exercicio 1: Página 26
 
 Implemente um programa para calcular a área de um trapézio, onde:
@@ -24,6 +26,8 @@ a. 3 – 2 – 1 + 2 + 1 + 3
 b. 2 * 3 – 4 * 5
 c. 2 + 6 – 3 / 7 * 9
 d. 3 % 4 – 8 
+
+Pagina 33
 
 Exercicio 1: Pagina 33
 
