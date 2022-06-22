@@ -24,3 +24,8 @@ a. 3 – 2 – 1 + 2 + 1 + 3
 b. 2 * 3 – 4 * 5
 c. 2 + 6 – 3 / 7 * 9
 d. 3 % 4 – 8 
+
+Exercicio 1: Pagina 33
+
+Escreva um programa que imprima na tela a soma dos números ímpares entre 0 e 30 e a multiplicação dos 
+números pares entre 0 e 30.
