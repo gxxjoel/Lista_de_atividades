@@ -37,3 +37,9 @@ números pares entre 0 e 30.
 Exercicio 2: Página 33
 
 Faça um programa para imprimir os números primos de 1 a 123.
+
+Exercicio 4: Página 33
+
+O valor pago por um Hotel da Praia de Iracema para seus porteiros é de R$ 10,25 por hora de
+trabalho. Faça um programa que pergunte ao usuário quantas horas ele trabalhou e imprima na
+tela o valor do salário a ser recebido por ele.
