@@ -34,8 +34,6 @@ Exercicio 1: Pagina 33
 Escreva um programa que imprima na tela a soma dos números ímpares entre 0 e 30 e a multiplicação dos 
 números pares entre 0 e 30.
 
-Pagina 33
- 
 Exercicio 2: Página 33
 
 Faça um programa para imprimir os números primos de 1 a 123.
